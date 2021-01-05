@@ -6,3 +6,7 @@ This repository contains all of the notes taken by Filipe for the Lighthouse Lab
 
 
 Taken by [Filipe](https://github.com/fhpoa) for the Data Science Bootcamp of [Lighthouse Labs](https://www.lighthouselabs.ca).
+
+* [Week 1](/Week_1)
+    * [Day 1](/Week_1/Day_1)
+    
